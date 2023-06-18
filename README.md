@@ -9,6 +9,8 @@ The file [`john-oliver-subs.json`](john-oliver-subs.json) is being used to keep 
 
 ## Querying a file 
 
-I have found that jsDelivr provide a CDN for files on GitHub. Therefore, if you wish to set an application to query the most recent version of a list, i've included such links below:
+jsDelivr operate a CDN for files on GitHub. Therefore, if you wish to set an application to query the most recent version of a list, I've included CDN links below:
 
  - `john-oliver-subs.json`: https://cdn.jsdelivr.net/gh/username-is-required/reddark-subinfo@main/john-oliver-subs.json
+
+(Disclaimer: I have no affiliation with jsDelivr)
