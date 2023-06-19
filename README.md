@@ -12,3 +12,5 @@ The file [`john-oliver-subs.json`](john-oliver-subs.json) is being used to keep 
 If you wish to set an application to query the most recent version of a list, I've included links to the raw GitHub files below:
 
  - `john-oliver-subs.json`: https://raw.githubusercontent.com/username-is-required/reddark-subinfo/main/john-oliver-subs.json
+
+(There was previously a jsDelivr link included here, however unfortunately jsDelivr seems to have a long file caching policy, which doesn't work very well in the context of multiple list updates a day!)
