@@ -14,3 +14,6 @@ If you wish to set an application to query the most recent version of a list, I'
  - `john-oliver-subs.json`: https://raw.githubusercontent.com/username-is-required/reddark-subinfo/main/john-oliver-subs.json
 
 (There was previously a jsDelivr link included here, however unfortunately jsDelivr seems to have a long file caching policy, which doesn't work very well in the context of multiple list updates a day!)
+
+## License
+The data in this repository is licensed under the [Creative Commons Zero v1.0 Universal license](LICENSE).
