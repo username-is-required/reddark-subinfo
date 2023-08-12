@@ -2,7 +2,7 @@
 
 ## ARCHIVED
 
-Archived as I think this has now passed the end of its usefulness. Also I'm fairly sure the API changes partially broke [@username-is-required-bot](https://github.com/username-is-required-bot], and I don't have the motivation to try and fix it.
+Archived as I think this has now passed the end of its usefulness. Also I'm fairly sure the API changes partially broke [@username-is-required-bot](https://github.com/username-is-required-bot), and I don't have the motivation to try and fix it.
 
 This repository exists to be a home to manually maintained lists of subreddits with specific status(es), originally created for use by [my fork of Reddark](https://github.com/username-is-required/Reddark).
 
